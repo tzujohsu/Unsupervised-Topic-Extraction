@@ -5,8 +5,6 @@ This project demonstrates the application of Non-negative Matrix Factorization (
 
 A demo has been built using Gradio. Gradio provides an easy-to-use interface that allows users to input their documents and visualize the extracted topics.
 
-[gradio-demo]()
-
 <p align="center">
     <img src="gradio-demo.png" alt="gradio-demo" width="600">
 </p>
